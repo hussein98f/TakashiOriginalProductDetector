@@ -92,7 +92,7 @@ export const ProductDetact = () => {
     <>
       <header className="relative">
         <div className="bg-[#00000063] fixed top-0 left-0 w-full z-20 px-4">
-          <div className="flex items-center mx-auto max-w-[1200px]">
+          <div className="flex mx-auto max-w-[1200px]">
             <img
               src="/takashi.svg"
               alt="Takashi Oil"
