@@ -48,7 +48,7 @@ const DialogComponent = ({ response, isOpen, closeFn }) => {
     return (
       <>
         <div className="flex items-center space-x-4 text-amber-500">
-          <VscUnverified className="text-7xl" />
+          <VscUnverified className="text-9xl" />
           <DialogTitle as="h3" className="text-3xl font-medium">
             Suspected Product Manipulation.
           </DialogTitle>
